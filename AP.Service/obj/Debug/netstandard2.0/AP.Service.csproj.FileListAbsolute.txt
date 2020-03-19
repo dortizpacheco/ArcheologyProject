@@ -1,0 +1,16 @@
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Service.deps.json
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Service.dll
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Service.pdb
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Core.dll
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Domain.dll
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Persistence.dll
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Domain.pdb
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Persistence.pdb
+/home/dany/Escritorio/AP/AP.Service/bin/Debug/netstandard2.0/AP.Core.pdb
+/home/dany/Escritorio/AP/AP.Service/obj/Debug/netstandard2.0/AP.Service.csprojAssemblyReference.cache
+/home/dany/Escritorio/AP/AP.Service/obj/Debug/netstandard2.0/AP.Service.csproj.CoreCompileInputs.cache
+/home/dany/Escritorio/AP/AP.Service/obj/Debug/netstandard2.0/AP.Service.AssemblyInfoInputs.cache
+/home/dany/Escritorio/AP/AP.Service/obj/Debug/netstandard2.0/AP.Service.AssemblyInfo.cs
+/home/dany/Escritorio/AP/AP.Service/obj/Debug/netstandard2.0/AP.Service.csproj.CopyComplete
+/home/dany/Escritorio/AP/AP.Service/obj/Debug/netstandard2.0/AP.Service.dll
+/home/dany/Escritorio/AP/AP.Service/obj/Debug/netstandard2.0/AP.Service.pdb

@@ -1,0 +1,12 @@
+/home/dany/Escritorio/AP/AP.Persistence/bin/Debug/netstandard2.0/AP.Persistence.deps.json
+/home/dany/Escritorio/AP/AP.Persistence/bin/Debug/netstandard2.0/AP.Persistence.dll
+/home/dany/Escritorio/AP/AP.Persistence/bin/Debug/netstandard2.0/AP.Persistence.pdb
+/home/dany/Escritorio/AP/AP.Persistence/bin/Debug/netstandard2.0/AP.Domain.dll
+/home/dany/Escritorio/AP/AP.Persistence/bin/Debug/netstandard2.0/AP.Domain.pdb
+/home/dany/Escritorio/AP/AP.Persistence/obj/Debug/netstandard2.0/AP.Persistence.csprojAssemblyReference.cache
+/home/dany/Escritorio/AP/AP.Persistence/obj/Debug/netstandard2.0/AP.Persistence.csproj.CoreCompileInputs.cache
+/home/dany/Escritorio/AP/AP.Persistence/obj/Debug/netstandard2.0/AP.Persistence.AssemblyInfoInputs.cache
+/home/dany/Escritorio/AP/AP.Persistence/obj/Debug/netstandard2.0/AP.Persistence.AssemblyInfo.cs
+/home/dany/Escritorio/AP/AP.Persistence/obj/Debug/netstandard2.0/AP.Persistence.csproj.CopyComplete
+/home/dany/Escritorio/AP/AP.Persistence/obj/Debug/netstandard2.0/AP.Persistence.dll
+/home/dany/Escritorio/AP/AP.Persistence/obj/Debug/netstandard2.0/AP.Persistence.pdb

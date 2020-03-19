@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Q0gjlMnNjYji+PmpNL08zg66FwBiDd6hnozS/DVy7ZbCKlx2+6t1igemwEJlUi2ihgjjT5fAUOrCIpaVhqn6g==",
+  "success": true,
+  "projectFilePath": "/home/dany/Escritorio/AP/AP.Domain/AP.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/dany/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/dany/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

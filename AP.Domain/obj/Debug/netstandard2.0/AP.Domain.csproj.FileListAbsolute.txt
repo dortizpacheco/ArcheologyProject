@@ -1,0 +1,9 @@
+/home/dany/Escritorio/AP/AP.Domain/bin/Debug/netstandard2.0/AP.Domain.deps.json
+/home/dany/Escritorio/AP/AP.Domain/bin/Debug/netstandard2.0/AP.Domain.dll
+/home/dany/Escritorio/AP/AP.Domain/bin/Debug/netstandard2.0/AP.Domain.pdb
+/home/dany/Escritorio/AP/AP.Domain/obj/Debug/netstandard2.0/AP.Domain.csproj.CoreCompileInputs.cache
+/home/dany/Escritorio/AP/AP.Domain/obj/Debug/netstandard2.0/AP.Domain.AssemblyInfoInputs.cache
+/home/dany/Escritorio/AP/AP.Domain/obj/Debug/netstandard2.0/AP.Domain.AssemblyInfo.cs
+/home/dany/Escritorio/AP/AP.Domain/obj/Debug/netstandard2.0/AP.Domain.dll
+/home/dany/Escritorio/AP/AP.Domain/obj/Debug/netstandard2.0/AP.Domain.pdb
+/home/dany/Escritorio/AP/AP.Domain/obj/Debug/netstandard2.0/AP.Domain.csprojAssemblyReference.cache
